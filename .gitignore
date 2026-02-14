@@ -39,3 +39,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Unleashed session transcripts (auto-generated, untracked)
+data/unleashed/
